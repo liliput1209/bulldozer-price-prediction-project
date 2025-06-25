@@ -5,8 +5,6 @@ This project aims to predict the **resale prices of used bulldozers** using mach
 
 ---
 
----
-
 ## 📌 Problem Statement
 
 Predict the sale price of a bulldozer based on features such as usage hours, model ID, machine size, product group, etc. The model should be able to generalize to unseen data.
